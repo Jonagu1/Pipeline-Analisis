@@ -1,9 +1,2 @@
 .venv
 DNAref/
-node_modules/
-tools/
-Aligned_reads/
-Trimmed_reads/
-Trommed_reads/
-FastQC_trimmedReads/
-Variant_calling/
