@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "igv": "./tools/IGV_Linux_2.19.8/igv.sh"
+  },
+  "dependencies": {
+    "igv": "^3.8.4"
+  }
+}
